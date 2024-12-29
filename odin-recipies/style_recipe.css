@@ -1,13 +1,7 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, sans-serif;
     margin-left: 10%;
     margin-right: 50%;
-}
-
-.container {
-    display: flex;
-    justify-content: space-between; /* Align items left, middle, and right */
-    padding: 20px;
 }
 
 img {
